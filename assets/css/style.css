@@ -1,0 +1,13 @@
+nav {
+    background-color: darkgreen;
+    border-bottom: 10px solid red;
+}
+
+footer {
+    background-color: darkgreen;
+    right: 0;
+}
+
+.inline {
+    display: inline;
+}
